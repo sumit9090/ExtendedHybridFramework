@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite A" >
+
+
+  <test name="Login Test">
+    <classes>
+        <class name="com.hybird.suitea.LoginTest" ></class>  
+    </classes>
+ </test>
+ 
+  
+  <test name="Test B">
+    <classes>
+        <class name="com.hybird.suitea.TestB" ></class>  
+    </classes>
+ </test>
+ 
+   
+
+
+</suite>
